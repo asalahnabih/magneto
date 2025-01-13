@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Core characterization data set: loss, permeability and
+  permittivity
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ahmed
+    family-names: Nabih
+    email: nabih@vt.edu
+    affiliation: Virginia Tech
+    orcid: 'https://orcid.org/0000-0001-8459-9556'
+repository-code: 'https://github.com/asalahnabih/magneto'
+abstract: >-
+  Core loss data and core characteristics database. The
+  database is created on MS Access, and you can upload new
+  data by following the instructions in the documentation
+  PPTX file. The database contains materials: ML91, ML95,
+  ML27, DMR51W at different core sizes.
+license: MIT
